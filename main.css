@@ -1,0 +1,45 @@
+body{
+	background-color: black;
+}
+
+#space, #divider{
+	margin: 30px; 
+}
+
+.btn{
+	margin-right: 30px;
+}
+
+h1{
+	color: #DEF6B1;
+	font-family: 'Pacifico', cursive;
+	margin-bottom: 10px;
+}
+
+#format{
+	text-align: center;
+}
+
+.hide{
+	width: 300px;
+	height: 300px;
+	background: black;
+	border: pink 2px solid;
+}
+
+.container{
+	max-height: 400px;
+	max-width: 600px;
+}
+.col-sm{
+	/*background: pink;
+	border: black 2px solid;*/
+	height: 170px;
+	margin: 4px; 
+	border-radius: 20px;
+}
+
+.rem{
+	display: none;
+}
+
